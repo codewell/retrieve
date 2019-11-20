@@ -1,0 +1,30 @@
+{
+  "name": "@codewell/retrieve-from-array",
+  "version": "1.0.0",
+  "description": "Retrieve an object from an array with objects using a filter object",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewell/retrieve-from-array.git"
+  },
+  "keywords": [],
+  "author": "Filip Johansson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codewell/retrieve-from-array/issues"
+  },
+  "homepage": "https://github.com/codewell/retrieve-from-array#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "@codewell/and": "^1.0.0",
+    "@codewell/is-empty": "^1.0.1"
+  }
+}
